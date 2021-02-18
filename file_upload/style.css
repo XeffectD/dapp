@@ -1,0 +1,45 @@
+body {
+  background: #C0C0C0;
+    background-image: url('https://ordinaryfaith.net/wp-content/uploads/2016/03/Gray-plain-website-background.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+form {
+  width: 80%;
+  margin: 80px auto;
+  padding: 30px;
+  background: #48c9b0;
+  border: 1px solid #555;
+  box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+}
+input {
+  width: 100%;
+  border: 1px solid #f1e1e1;
+  display: block;
+  padding: 5px 10px;
+}
+button {
+  border: none;
+  padding: 10px;
+  border-radius: 5px;
+   background: #6e8d30;
+  color: #fff;
+}
+table {
+  width: 50%;
+  
+  border-collapse: collapse;
+  margin: 90px auto;
+}
+th,
+td {
+  height: 40px;
+  
+  vertical-align: center;
+  border: 1px solid black;
+}
+
+
+button:hover {
+  opacity: 0.8;
+}
